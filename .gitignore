@@ -1,0 +1,21 @@
+# .gitignore
+
+avi
+cache
+configs/backups
+configs/server
+configs/rcon.cfg
+demos
+fonts
+gfx
+screenshots
+stats
+
+*.pk3
+*.profile
+config.cfg
+listip.cfg
+profile.id
+
+!gfx_items_flat.pk3
+!hud_guwashi_sm.pk3
