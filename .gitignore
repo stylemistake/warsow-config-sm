@@ -4,7 +4,6 @@ avi
 cache
 configs/backups
 configs/server
-configs/rcon.cfg
 demos
 fonts
 gfx
@@ -12,6 +11,7 @@ screenshots
 stats
 
 *.pk3
+*.tmp
 *.profile
 config.cfg
 listip.cfg
